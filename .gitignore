@@ -15,10 +15,12 @@ CVS
 local.properties
 proguard/**
 target/**
+build/**
 bin/**
 obj/**
 doc/**
 gen/**
+libs/**
 gdb.setup
 gdbserver
 
